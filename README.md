@@ -1,16 +1,12 @@
 # lugares
 
-A new Flutter application.
+APP feito em flutter, um aplicativo simples onde mostro uma tela inicial para entrar com login/senha e logo em seguida uma navegação entre paginas.
 
-## Getting Started
+# Tela inicial
+ <img src="https://uploaddeimagens.com.br/images/003/622/095/full/tela_inicial.PNG?1641820354" alt="">
 
-This project is a starting point for a Flutter application.
+# Segunda tela
+ <img src="https://uploaddeimagens.com.br/images/003/622/097/full/segunda_tela.PNG?1641820399" alt="">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Terceira tela
+ <img src="https://uploaddeimagens.com.br/images/003/622/125/full/terceira_tela.PNG?1641820723" alt="">
